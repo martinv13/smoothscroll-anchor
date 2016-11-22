@@ -2,6 +2,6 @@
 Yet another script to perform smooth scrolling.
 It is non intrusive, light and without any dependency.
 
-Just past/source the script somewhere, it will replace anchor links, i.e. `<a href="#home">Home</a>`, with their smooth equivalent.
+Just paste/source the script somewhere, it will replace anchor links, i.e. `<a href="#home">Home</a>`, with their smooth equivalent.
 
 Tested on Chrome, IE, Safari, Edge.
