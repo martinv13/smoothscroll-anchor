@@ -1,2 +1,7 @@
-# smoothscroll-anchor
-A very simple script to replace anchor links by a smoother version
+# Smooth scrolling to anchor links
+Yet another script to perform smooth scrolling.
+It is non intrusive, light and without any dependency.
+
+Just past the script somewhere, it will replace anchor links, i.e. `<a href="#home">Home</a>`, with their smooth equivalent.
+
+Tested on Chrome, IE, Safari, Edge.
